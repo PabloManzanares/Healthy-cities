@@ -1,6 +1,6 @@
 # Proyecto_Pablo_Manzanares
 
-![portada](https://es.wikipedia.org/wiki/Ciudad_global#/media/Archivo:Skyscrapers_of_Shinjuku_2009_January.jpg)
+![portada](https://cdn.getyourguide.com/img/tour/a1ea639e91410f01.jpeg/99.jpg)
 
 # Objetivo.
 
